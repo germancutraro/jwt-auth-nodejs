@@ -1,0 +1,20 @@
+{
+  "name": "jwt-auth-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
